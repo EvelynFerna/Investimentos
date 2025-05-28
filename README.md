@@ -1,16 +1,23 @@
-# myapp
+# Investimentos
+- Objetivo: Desenvolver um aplicativo que recebe um valor mensal investido, o número de meses e as taxas de juros e exibe o Montante sem juros da parcela e o Montante com juros compostos.
 
-A new Flutter project.
+## Tecnologias 
+- Flutter
+- Dart
 
-## Getting Started
+## Como testar
+- 1 Clonar o repositório
+- 2  Abrir com Android Studio ou VsCode
+- 3 Em um terminal, executar o comando:
+```bash
+flutter pub get
+```
+- 4 Executar o aplicativo em um emulador ou dispositivo físico ou em um navegador:
+```bash
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Prints dos testes
+![Captura de tela 2025-05-28 154347](https://github.com/user-attachments/assets/087866c0-04c2-4e19-8ad6-80ce939fc29f)
+![Captura de tela 2025-05-28 154408](https://github.com/user-attachments/assets/9458844f-0b39-4d75-9ee5-5f248035e1aa)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
